@@ -1,5 +1,4 @@
 
-# El contenido del README.md generado anteriormente
 
 # Simulación de Imputación de Datos en el Dataset Iris
 
