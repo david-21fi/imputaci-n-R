@@ -1,6 +1,6 @@
 
 # El contenido del README.md generado anteriormente
-readme_content = """
+
 # Simulación de Imputación de Datos en el Dataset Iris
 
 ## Objetivo
